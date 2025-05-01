@@ -3,7 +3,7 @@
 # <div align="center"> ![Image](https://github.com/user-attachments/assets/f99669ab-90d7-4da3-989a-8a0f3dd71bf8) </div>
 ## <div align="center">👋 Welcome to my profile! 👋 </div>
 
-<div align="center">•
+<div align="center">
 
 🎮 I'm an **indie game developer**, making the jump from **Scratch**. 🎮
 
