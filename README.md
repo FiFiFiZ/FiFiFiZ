@@ -1,6 +1,6 @@
 # <div align="center"> Hi, I'm FiFiZ! </div>
 
-# <div align="center"> ![Image](https://github.com/user-attachments/assets/9cfa318c-6531-46de-a5ab-219edff32087) </div>
+# <div align="center"> ![Image](https://github.com/user-attachments/assets/6556ba4b-428c-47bd-a93f-715d75840c6a) </div>
 ## <div align="center">👋 Welcome to my profile! 👋 </div>
 
 <div align="center">
